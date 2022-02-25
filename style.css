@@ -291,3 +291,7 @@
   padding: 1px;
   background-color: black;
 }
+.g-signin2{
+  display: flex;
+  padding-left: 1000px;
+}
